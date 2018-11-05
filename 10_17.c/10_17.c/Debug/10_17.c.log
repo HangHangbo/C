@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/10/21 0:05:58。
+     1>项目“C:\编程\10_17.c\10_17.c\10_17.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 1.c
+         1.c
+     1>c:\编程\10_17.c\10_17.c\1.c(109): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\编程\10_17.c\10_17.c\1.c(113): warning C4013: “system”未定义；假设外部返回 int
+     1>c:\编程\10_17.c\10_17.c\1.c(116): fatal error C1075: 与左侧的 大括号“{”(位于“c:\编程\10_17.c\10_17.c\1.c(91)”)匹配之前遇到文件结束
+     1>已完成生成项目“C:\编程\10_17.c\10_17.c\10_17.c.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.20
