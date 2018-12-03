@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/11/28 14:20:57。
+     1>项目“C:\编程\GitHub\C语言\neicunguanli\neicunguanli\neicunguanli.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(52): error C2085: “Getmemory”: 不在形参表中
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(52): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(53): error C2065: “p”: 未声明的标识符
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(53): warning C4047: “=”:“int”与“char *”的间接级别不同
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(58): warning C4013: “Getmemory”未定义；假设外部返回 int
+     1>c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(63): error C2084: 函数“int main()”已有主体
+                 c:\编程\github\c语言\neicunguanli\neicunguanli\test.c(30) : 参见“main”的前一个定义
+     1>已完成生成项目“C:\编程\GitHub\C语言\neicunguanli\neicunguanli\neicunguanli.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.50
